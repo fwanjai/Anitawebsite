@@ -12,3 +12,26 @@
   margin-right: auto;
   padding-top: 2%;
 }
+
+.selector {
+  list-style-type: none;
+  margin:0;
+  padding:0;
+  background-color: #f1f1f1;
+  width: 108%;
+
+}
+
+.selectors {
+  font-size: 28px;
+  padding: 39.75px 0px 39.75px 100px;
+}
+
+.selectors:hover {
+  background-color: #f15a29;
+}
+
+.segment2 {
+  width: 110%;
+
+}
