@@ -18,13 +18,13 @@
   margin:0;
   padding:0;
   background-color: #f1f1f1;
-  width: 108%;
+  width: 108.5%;
 
 }
 
 .selectors {
   font-size: 28px;
-  padding: 39.75px 0px 39.75px 100px;
+  padding: 39.25px 0px 39.25px 100px;
 }
 
 .selectors:hover {
@@ -33,5 +33,11 @@
 
 .segment2 {
   width: 110%;
+
+}
+
+.borderpics {
+  border: 2px solid grey;
+  padding: 15px 15px 15px 13.5px;
 
 }
