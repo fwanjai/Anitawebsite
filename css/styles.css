@@ -41,3 +41,69 @@
   padding: 15px 15px 15px 13.5px;
 
 }
+
+.tabs {
+  background-image: url(../images/backgrounds/foodsBg.jpg);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  width: 100%;
+  height: 600px;
+}
+
+
+ .list-item1, .list-item2, .list-item3, .list-item4 {
+  background-color: #d3d1d1;
+  display: inline-block;
+  padding: 20px 107px 20px 90px;
+  font-size: 22px;
+  font-family: cursive;
+}
+
+ .list-item1:hover, .list-item2:hover, .list-item3:hover, .list-item4:hover {
+  background-color: white;
+  font-size: 22px;
+  font-family: cursive;
+  color: #f15a29;
+  cursor: pointer;
+}
+
+.image-spacing1 {
+  padding: 30px 20px 50px 50px;
+  background-color: white;
+  }
+
+.image-spacing1:hover {
+    background-color: white;
+    opacity: 0.8;
+    }
+
+.image-spacing2 {
+      padding: 30px 40px 50px 40px;
+      background-color: white;
+      }
+
+    .image-spacing2:hover {
+        background-color: white;
+        opacity: 0.8;
+        }
+
+.image-spacing3 {
+          padding: 30px 50px 50px 20px;
+          background-color: white;
+          }
+
+        .image-spacing3:hover {
+            background-color: white;
+            opacity: 0.8;
+            }
+
+.carosel-pos {
+position: absolute;
+top:180%;
+
+}
+
+.tabsbar {
+  position: absolute;
+  top:170%;
+}
